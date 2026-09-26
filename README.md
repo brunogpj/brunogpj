@@ -1,7 +1,7 @@
 ## Olá, eu sou o Bruno 👋
 
-Trabalho com **operações de transporte rodoviário de cargas** em Belo Horizonte: faturamento, CT-e, MDF-e,
-frete pelo piso ANTT e gestão de estoque. Nos últimos anos passei a transformar as tarefas repetitivas
+Sou **Assistente de Logística** em Belo Horizonte e trabalho com **operações de transporte rodoviário de
+cargas**: faturamento, CT-e, MDF-e, frete pelo piso ANTT e gestão de estoque. Nos últimos anos passei a transformar as tarefas repetitivas
 da operação em **automação**: primeiro com Excel e VBA, depois com Google Apps Script e agentes de IA.
 
 Formação em SAP MM S/4HANA (Gestão de Materiais) e técnico em informática.
